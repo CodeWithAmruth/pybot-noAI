@@ -13,7 +13,7 @@ while True:
     user_input = input("You: ").lower().strip()
 
     if user_input == "exit":
-        print("Chatbot: Chat ended. See you soon!")
+        print("PyBot: Chat ended. See you soon!")
         break
 
     reply = responses.get(user_input, "I'm not sure how to respond to that.")
