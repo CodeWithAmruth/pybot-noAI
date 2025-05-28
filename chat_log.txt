@@ -1,0 +1,17 @@
+=== New Chat Started at 2025-05-28 19:53:24 ===
+You: hi
+PyBot: Hi!
+You: bye
+PyBot: Take care!
+You: hello
+PyBot: Hey! How can I help you today?
+You: hello
+PyBot: Hello! Need something?
+You: exit
+PyBot: Chat ended. See you soon!
+
+=== New Chat Started at 2025-05-28 19:54:31 ===
+You: hi
+PyBot: Hey!
+You: exit
+PyBot: Chat ended. See you soon!
