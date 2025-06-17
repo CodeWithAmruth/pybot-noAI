@@ -1,0 +1,16 @@
+
+=== New GUI Chat Started at 2025-06-17 20:16:30 ===
+You: sxs
+PyBot: I'm not sure how to respond to that.
+
+=== New GUI Chat Started at 2025-06-17 20:17:11 ===
+
+=== New GUI Chat Started at 2025-06-17 20:17:31 ===
+
+=== New GUI Chat Started at 2025-06-17 20:17:53 ===
+You: hi
+PyBot: What's up?
+You: hello
+PyBot: Hello!
+You: exit
+PyBot: Chat ended. See you soon!
